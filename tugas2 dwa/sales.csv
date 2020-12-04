@@ -1,0 +1,10 @@
+product,qty,store
+Monitor,2,ABC
+CPU,1,DEF
+Monitor,3,ABC
+RAM,2,DEF
+Monitor,3,ABC
+Monitor,2,DEF
+RAM,3,ABC
+RAM,2,DEF
+Monitor,2,ABC
